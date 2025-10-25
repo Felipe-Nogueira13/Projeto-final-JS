@@ -1,10 +1,10 @@
 # Projeto-final-JS
 Nomes dos integrantes:
 
-Fabricio,  
-Felipe, 
-Isaque, 
-Karina e 
+Fabricio 
+Felipe 
+Isaque
+Karina
 Victor menezes
 
 Nosso desafio:
