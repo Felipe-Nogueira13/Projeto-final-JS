@@ -1,2 +1,7 @@
 # Projeto-final-JS
-Arquivos da Landing Page
+Nomes dos integrantes:
+
+Fabricio 
+Felipe
+Karina
+Victor menezes
